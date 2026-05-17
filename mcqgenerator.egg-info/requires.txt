@@ -4,10 +4,9 @@ langchain-huggingface
 transformers
 torch
 huggingface_hub
+sentence-transformers
+accelerate
 streamlit
 python-dotenv
 PyPDF2
 pandas
-
--e .
-
